@@ -5,7 +5,7 @@ const PageImage = () => {
   return (
     <div className="pageimagebar">
       <img
-        src="/deakin.jpg" // Replace with the actual image path
+        src="/deakin.jpg" 
         alt="Cover"
         className="pageimage"
       />
